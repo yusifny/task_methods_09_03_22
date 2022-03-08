@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace task_methods_09._03._22
+namespace task_methods_09_03_22
 {
     class Program
     {
